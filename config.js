@@ -18,7 +18,7 @@ module.exports = {
   botname: process.env.BOT_NAME || 'PRABATH-MD',
   dl_limit: process.env.DL_SIZE || '300',
   art: process.env.AUTO_RESTART || 'true',
-  sudo: process.env.SUDO || '94762280384',
+  sudo: process.env.SUDO || '947422514900',
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
   alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
   ownername:process.env.OWNER_NAME || 'PRABATH',
